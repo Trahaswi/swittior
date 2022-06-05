@@ -1,0 +1,8 @@
+{
+  "name": "Swittior",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5fd9642f"
+}
